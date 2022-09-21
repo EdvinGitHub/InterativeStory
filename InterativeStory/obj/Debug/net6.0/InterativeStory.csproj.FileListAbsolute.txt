@@ -1,0 +1,15 @@
+C:\Users\edvin.arvesjo\Desktop\C#\InterativeStory\InterativeStory\bin\Debug\net6.0\InterativeStory.exe
+C:\Users\edvin.arvesjo\Desktop\C#\InterativeStory\InterativeStory\bin\Debug\net6.0\InterativeStory.deps.json
+C:\Users\edvin.arvesjo\Desktop\C#\InterativeStory\InterativeStory\bin\Debug\net6.0\InterativeStory.runtimeconfig.json
+C:\Users\edvin.arvesjo\Desktop\C#\InterativeStory\InterativeStory\bin\Debug\net6.0\InterativeStory.dll
+C:\Users\edvin.arvesjo\Desktop\C#\InterativeStory\InterativeStory\bin\Debug\net6.0\InterativeStory.pdb
+C:\Users\edvin.arvesjo\Desktop\C#\InterativeStory\InterativeStory\obj\Debug\net6.0\InterativeStory.csproj.AssemblyReference.cache
+C:\Users\edvin.arvesjo\Desktop\C#\InterativeStory\InterativeStory\obj\Debug\net6.0\InterativeStory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edvin.arvesjo\Desktop\C#\InterativeStory\InterativeStory\obj\Debug\net6.0\InterativeStory.AssemblyInfoInputs.cache
+C:\Users\edvin.arvesjo\Desktop\C#\InterativeStory\InterativeStory\obj\Debug\net6.0\InterativeStory.AssemblyInfo.cs
+C:\Users\edvin.arvesjo\Desktop\C#\InterativeStory\InterativeStory\obj\Debug\net6.0\InterativeStory.csproj.CoreCompileInputs.cache
+C:\Users\edvin.arvesjo\Desktop\C#\InterativeStory\InterativeStory\obj\Debug\net6.0\InterativeStory.dll
+C:\Users\edvin.arvesjo\Desktop\C#\InterativeStory\InterativeStory\obj\Debug\net6.0\refint\InterativeStory.dll
+C:\Users\edvin.arvesjo\Desktop\C#\InterativeStory\InterativeStory\obj\Debug\net6.0\InterativeStory.pdb
+C:\Users\edvin.arvesjo\Desktop\C#\InterativeStory\InterativeStory\obj\Debug\net6.0\InterativeStory.genruntimeconfig.cache
+C:\Users\edvin.arvesjo\Desktop\C#\InterativeStory\InterativeStory\obj\Debug\net6.0\ref\InterativeStory.dll
